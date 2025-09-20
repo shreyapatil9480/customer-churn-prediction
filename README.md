@@ -53,4 +53,9 @@ Dependencies are listed in `requirements.txt`.  The key libraries include `panda
 
 ## License
 
+
 This project uses a synthetic dataset created solely for demonstration purposes.  Feel free to modify and extend the analysis for your learning or portfolio.
+
+## Additional Notes
+
+This repository is intended as a starting point for demonstrating your analytical skills. Feel free to extend the analysis with feature engineering, hyperparameter tuning, or deployment strategies to showcase deeper expertise.
